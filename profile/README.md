@@ -41,7 +41,7 @@
 
 - [Homepage](https://vipherian.de)
 - [Discord](https://dc.vipherian.de)
-- [Mastrodon](https://mastrodon.vipherian.de)
+- [Mastodon](https://mastodon.vipherian.de)
 
 <br>
 <br>
