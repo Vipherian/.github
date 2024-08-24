@@ -3,7 +3,7 @@
 
 
   <div>
-      <img src="https://i.imgur.com/iEXhgwo.png">
+      <img src="https://avatars.githubusercontent.com/u/159634020">
       <h1>Vipherian</h1>
   </div>
 </div>
