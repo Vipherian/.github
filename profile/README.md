@@ -10,9 +10,8 @@
 
 ```
 🚀 Minestom
-☁️ Custom CloudSystem
-☕ Java 17
-🤨 Only children need Gradle or Kotlin
+☕ Java 21
+🤨 Only children need Kotlin
 ```
 
 <br>
@@ -25,8 +24,8 @@
 </div>
 
 ```
-- Java 17
-- Maven
+- Java 21
+- Maven / Gradle
 - No Kotlin
 ```
 
